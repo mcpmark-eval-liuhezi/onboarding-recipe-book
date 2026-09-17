@@ -1,0 +1,1 @@
+Notes for the onboarding session demo: watch how the pull request is synced after the default branch moves ahead.
